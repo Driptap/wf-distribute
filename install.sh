@@ -103,8 +103,7 @@ Version=1.0
 Type=Application
 Name=$APP_NAME
 Comment=Water Freedom Smart System Application
-Exec=/usr/bin/$EXECUTABLE_NAME
-Driptap/wf-distribute"
+Exec=/usr/bin/$EXECUTABLE_NAME"
 
     # Create desktop entry
     DESKTOP_FILE="/usr/share/applications/$EXECUTABLE_NAME.desktop"
